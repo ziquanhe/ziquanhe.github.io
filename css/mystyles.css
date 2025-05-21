@@ -27,7 +27,7 @@ a.jefflink:hover{
 }
 
 h4.jeffsmall{
-    color: black;
+    color: rgb(3, 176, 174);
     font-size: 20px;
 }
 
@@ -50,6 +50,6 @@ h4.jeffsmall{
 }
 
 .jeffhi{
-    color: red;
+    color: rgb(228, 82, 14);
     font-weight: 900;
 }
