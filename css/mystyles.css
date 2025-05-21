@@ -44,3 +44,12 @@ h4.jeffsmall{
     background-size: cover ;
     background-repeat: no-repeat;
 }
+
+.jeffserif{
+     font-family: "Noto Serif TC", serif;
+}
+
+.jeffhi{
+    color: red;
+    font-weight: 900;
+}
