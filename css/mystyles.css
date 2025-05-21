@@ -14,7 +14,7 @@ a.jefflink{
 }
 
 a.jefflink:hover{
-    background-color: rgb(255, 225, 255);
+    background-color: rgb(12, 194, 48);
     color: black;
 }
 
@@ -50,6 +50,25 @@ h4.jeffsmall{
 }
 
 .jeffhi{
-    color: rgb(228, 82, 14);
+    color: rgb(46, 112, 85);
     font-weight: 900;
 }
+
+.jeff-white{
+    color: rgb(216, 208, 208); 
+}
+
+.jeff-green{
+    color: rgb(28, 113, 30);
+}
+
+.jeff-black{
+    color: black;
+}
+
+.jeffback{
+    background-image: url("../assets/img/background4.jpg");
+    background-size: cover ;
+    background-repeat: no-repeat;
+}
+

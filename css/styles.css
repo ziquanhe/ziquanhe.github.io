@@ -8037,7 +8037,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: rgb(100,149,237);
+  color: rgb(9, 123, 89);
 }
 
 .text-secondary {
@@ -8128,7 +8128,9 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color:cadetblue;
+  background-image: url("/assets/img/background3.jpg");
+  background-size: cover ;
+  background-repeat: no-repeat;
 }
 
 .bg-secondary {
