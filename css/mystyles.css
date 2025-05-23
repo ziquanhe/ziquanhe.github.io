@@ -3,7 +3,7 @@ p{
 }
 
 .conan{
-    background-color:rgb(255, 225, 255) ;
+    color:rgb(255, 225, 255) ;
 }
 
 a.jefflink{
@@ -72,5 +72,9 @@ h4.jeffsmall{
     background-repeat: no-repeat;
     background-blend-mode:luminosity;
     background-color: #0000007b;
+}
+
+.jeff-blue{
+    color: rgb(2, 63, 84);
 }
 
