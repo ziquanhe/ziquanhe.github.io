@@ -70,5 +70,7 @@ h4.jeffsmall{
     background-image: url("../assets/img/background4.jpg");
     background-size: cover ;
     background-repeat: no-repeat;
+    background-blend-mode:luminosity;
+    background-color: #0000007b;
 }
 
