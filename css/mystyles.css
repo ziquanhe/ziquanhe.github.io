@@ -40,7 +40,7 @@ h4.jeffsmall{
 }
 
 .jeffcallmebg{
-    background-image: url("../assets/img/bg2.png");
+    background-image: url("../assets/img/bg3.jpg");
     background-size: cover ;
     background-repeat: no-repeat;
 }
@@ -72,6 +72,7 @@ h4.jeffsmall{
     background-repeat: no-repeat;
     background-blend-mode:luminosity;
     background-color: #0000007b;
+    background-attachment: fixed;
 }
 
 .jeff-blue{
