@@ -27,6 +27,12 @@ a.jefflink:hover{
     padding-bottom: 0px;
 }
 
+@media (max-width:991px) {
+ .jeffdiv {
+    width:90%;
+   margin: 0 auto;
+}
+}
 
 h4.jeffsmall{
     color: rgb(3, 176, 174);
@@ -85,14 +91,4 @@ h4.jeffsmall{
     height: 600px;
     overflow: hidden;
     object-fit: cover;
-}
-
-.text-box{
-    width: 90%;        /* 讓寬度佔手機螢幕的 90% */
-    max-width: 600px;  /* 設定最大寬度，避免電腦上太寬 */
-    margin: 0 auto;    /* 水平置中 */
-    padding: 20px;
-    background-color: #0e5c5c; /* 綠色背景 */
-    border-radius: 10px;
-    color: #fff;       /* 白色字體 */
 }
