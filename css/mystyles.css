@@ -81,6 +81,7 @@ h4.jeffsmall{
     background-blend-mode:luminosity;
     background-color: #0000007b;
     background-attachment: fixed;
+    background-position: center center;
 }
 
 .jeff-blue{
