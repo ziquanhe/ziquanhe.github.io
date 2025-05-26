@@ -79,3 +79,9 @@ h4.jeffsmall{
     color: rgb(2, 63, 84);
 }
 
+.jeffhigh{
+    height: 600px;
+    overflow: hidden;
+    object-fit: cover;
+}
+
