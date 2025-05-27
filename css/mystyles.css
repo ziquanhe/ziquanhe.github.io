@@ -34,20 +34,6 @@ a.jefflink:hover{
 }
 }
 
-
-/* 平板 */
-@media (min-width: 769px) and (max-width: 1024px) {
-  .sidebar { width: 30%; }
-  .content { width: 70%; }
-}
-
-/* 桌面 */
-@media (min-width: 1025px) {
-  .sidebar { width: 25%; }
-  .content { width: 75%; }
-}
-
-
 h4.jeffsmall{
     color: rgb(3, 176, 174);
     font-size: 20px;
