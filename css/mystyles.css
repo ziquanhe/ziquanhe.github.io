@@ -23,7 +23,7 @@ a.jefflink:hover{
     border: 2px solid rgb(24, 59, 60);
     padding: 30px;  
     border-radius: 10px;
-    width: 60%;
+    width: 100%;
     padding-bottom: 0px;
 }
 
@@ -33,6 +33,7 @@ a.jefflink:hover{
    margin: 0 auto;
 }
 }
+
 
 /* 平板 */
 @media (min-width: 769px) and (max-width: 1024px) {
